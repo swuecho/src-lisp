@@ -1,5 +1,5 @@
 ;;;; package.lisp
 
-(defpackage #:echo
+(defpackage #:swatchblade
   (:use #:cl))
 
