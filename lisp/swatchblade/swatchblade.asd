@@ -1,9 +1,9 @@
 ;;;; swatchblade.asd
 
 (asdf:defsystem #:swatchblade
-  :description "Describe swatchblade here"
-  :author "Your Name <your.name@example.com>"
-  :license "Specify license here"
+  :description "commom lisp playground"
+  :author "Hao Wu <echowuhao@gmail.com>"
+  :license "Public Domain"
   :depends-on (#:vecto
                #:hunchentoot)
   :serial t
