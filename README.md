@@ -54,7 +54,11 @@ run the fun in the package
 above works, because the symbol link created 
 
 
+#Roswell
 
+```bash
+ln -s  ~/dev/src-lisp/lisp/swatchblade  ~/.roswell/local-projects
+```
 #TODO
 change swatchblade to echo
 
