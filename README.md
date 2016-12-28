@@ -55,3 +55,9 @@ above works, because the symbol link created
 
 
 
+#TODO
+change swatchblade to echo
+
+```
+ ack swatchblade -l | xargs perl -p -i -E 's/swatchblade/echo/'
+```
