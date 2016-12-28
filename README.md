@@ -44,6 +44,13 @@ To load "vecto":
 ; 15.16KB
 ```
 
+run the fun in the package
+```lisp
+* (swatchblade::square_echo 500000)
+
+250000000000
+*
+```
 above works, because the symbol link created 
 
 
