@@ -65,3 +65,5 @@ change swatchblade to echo
 ```
  ack swatchblade -l | xargs perl -p -i -E 's/swatchblade/echo/'
 ```
+
+REF: https://arxiv.org/pdf/1209.5626v1.pdf
